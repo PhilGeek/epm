@@ -4,6 +4,6 @@ Notes from a seminar on Wilfrid Sellars' "Empiricism and the Philosophy of Mind"
 
 # Contents
 
-1. seminar_1/seminar_1.tex
-2. seminar_2/seminar_2.tex
-10. graphics/
+1. graphics/
+2. seminar_1/seminar_1.tex
+3. seminar_2/seminar_2.tex
